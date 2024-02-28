@@ -1,0 +1,24 @@
+.cover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.title {
+    font-size: 5em;
+    text-align: center;
+}
+
+.duration {
+    font-size: 2em;
+    color: lightgray;
+    text-align: center;
+}
+
+.description {
+    margin: 20px 10% 100px 10%;
+    text-align: justify;
+}

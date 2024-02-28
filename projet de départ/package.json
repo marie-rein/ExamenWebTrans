@@ -1,0 +1,17 @@
+{
+  "name": "the_movie_database",
+  "version": "1.0.0",
+  "description": "The Movie Database is a website about my favorite movies.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Jean Lachance",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.6.3",
+    "sass": "^1.71.1"
+  },
+  "devDependencies": {
+    "package": "^1.0.1"
+  }
+}
